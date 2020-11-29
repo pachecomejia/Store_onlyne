@@ -4,4 +4,4 @@ create table productos(
     precio integer not null,
     existencia integer not null
 );
-insert into productos(producto,precio,existencia) values ("iphone 7","6.000.00",16);
+insert into productos(producto,precio,existencia) values ("IPHONE 7",6000,16);

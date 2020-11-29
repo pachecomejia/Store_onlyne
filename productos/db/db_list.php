@@ -34,9 +34,9 @@
                 <td>$precio</td>
                 <td>$existencia</td>
 
-                <td><a href='view.php?id_persona=$id_persona'>View</a></td>
-                <td><a href='update.php?id_persona=$id_persona'>Update</a></td>
-                <td><a href='delete.php?id_persona=$id_persona'>Delete</a></td>
+                <td><a href='view.php?id_producto=$id_producto'>View</a></td>
+                <td><a href='update.php?id_producto=$id_producto'>Update</a></td>
+                <td><a href='delete.php?id_producto=$id_producto'>Delete</a></td>
             </tr>
         ";
 
