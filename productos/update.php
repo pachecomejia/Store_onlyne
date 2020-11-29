@@ -34,19 +34,19 @@
     }
 
     $form = "
-        <div class='form-group font-weight-bold'>
+        <div class='form-group'>
             <label for='id_producto'>ID de producto:</label>
             <input type='text'readonly class='form-control' id='id_producto' name='id_producto' aria-describedby='ID producto' value='$id_producto'>
         </div>
-        <div class='form-group font-weight-bold'>
+        <div class='form-group'>
             <label for='producto'>Nombre del producto:</label>
             <input type='text'class='form-control' id='producto' name='producto' aria-describedby='producto' value='$producto'>
         </div>
-        <div class='form-group font-weight-bold'>
+        <div class='form-group'>
             <label for='precio'>Precio del producto:</label>
             <input type='number'class='form-control' id='precio' name='precio' aria-describedby='precio' value='$precio'>
         </div>
-        <div class='form-group font-weight-bold'>
+        <div class='form-group'>
             <label for='existencias'>Existencia:</label>
             <input type='number'class='form-control' id='existencia' name='existencia' aria-describedby='precio' value='$existencia'>
         </div>
